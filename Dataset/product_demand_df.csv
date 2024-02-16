@@ -1,0 +1,1010 @@
+Ingredient Name,Entity ID,Demand Score
+Egg,0,13
+Bread,2,95
+Rye Bread,3,1
+Wheaten Bread,4,18
+White Bread,5,57
+Wholewheat Bread,6,0
+Wort,7,79
+Arrack,8,84
+Beer,9,19
+Bantu Beer,10,98
+Brandy,11,40
+Anise Brandy,12,12
+Apple Brandy,13,39
+Armagnac Brandy,14,94
+Blackberry Brandy,15,75
+Cherry Brandy,16,61
+Cognac Brandy,17,3
+Papaya Brandy,18,18
+Pear Brandy,19,1
+Plum Brandy,20,36
+Raspberry Brandy,21,24
+Weinbrand Brandy,22,4
+Gin,23,29
+Rum,24,68
+Whisky,25,42
+Bourbon Whisky,26,22
+Canadian Whisky,27,42
+Finnish Whisky,28,99
+Japanese Whisky,29,25
+Malt Whisky,30,88
+Scotch,31,17
+Wine,32,6
+Bilberry Wine,33,31
+Botrytized Wine,34,55
+Champagne,35,86
+Cider,36,15
+Plum Wine,37,94
+Port Wine,38,51
+Red Wine,39,24
+Rose Wine,40,32
+Sake,41,19
+Sherry,42,44
+Sparkling Wine,43,36
+Strawberry Wine,44,37
+White Wine,45,78
+Coffee,46,38
+Mate,47,19
+Black Tea,48,55
+Green Tea,49,91
+Roibos Tea,50,66
+Barley,51,0
+Crispbread,52,52
+Malt,53,40
+Oats,54,89
+Rice,55,5
+Corn,56,69
+Corn Oil,57,68
+Popcorn,58,62
+Sweetcorn,59,5
+Butter,60,15
+Buttermilk,61,40
+Cheese,62,77
+Blue Cheese,63,41
+Camembert Cheese,64,38
+Cheddar Cheese,65,97
+Comte Cheese,66,19
+Cottage Cheese,67,27
+Cream Cheese,68,64
+Domiati Cheese,69,88
+Emmental Cheese,70,28
+Feta Cheese,71,85
+Goat Cheese,72,46
+Gruyere Cheese,73,53
+Limburger Cheese,74,81
+Mozzarella Cheese,75,27
+Munster Cheese,76,43
+Parmesan Cheese,78,15
+Provolone Cheese,79,75
+Romano Cheese,80,87
+Roquefort Cheese,81,92
+Russian Cheese,82,54
+Sheep Cheese,83,12
+Swiss Cheese,84,60
+Tilsit Cheese,85,73
+Ghee,87,99
+Milk,88,38
+Milk Fat,89,84
+Goat Milk,90,82
+Milk Powder,91,4
+Sheep Milk,92,40
+Skimmed Milk,93,94
+Yogurt,94,86
+Achilleas,95,86
+Arar,96,83
+Buchu,97,47
+Cajeput,98,25
+Camphor,99,38
+Cascarilla,100,77
+Cedar,101,16
+Chamomile,102,95
+Citronella Oil,103,57
+Citrus Peel Oil,104,63
+Eucalyptus Oil,105,76
+Fir,106,81
+Geranium,107,51
+Grapefruit Peel Oil,108,91
+Grass,109,62
+Hops Oil,110,50
+Hyacinth,111,17
+Hyssop Oil,112,88
+Lemon Grass,113,35
+Lemon Peel Oil,114,67
+Lime Peel Oil,115,77
+Lovage,116,61
+Mandarin Orange Peel Oil,117,45
+Mastic Gum,118,88
+Mentha Oil,119,62
+Myrrh,120,77
+Neroli Oil,121,43
+Orange Oil,122,75
+Orris,123,79
+Clary Sage,124,3
+Red Sage,125,50
+Spanish Sage,126,58
+Sandalwood,127,13
+Sea Buckthorns,128,67
+Sweet Grass,129,58
+Valerian,130,12
+Wattle,131,16
+Yarrow,132,96
+Ylang-Ylang,133,60
+Clam,134,19
+Crab,135,89
+Crayfish,136,39
+Kelp,137,51
+Krill,138,32
+Lobster,139,68
+Mollusc,140,28
+Oyster,141,98
+Prawn,142,6
+Scallop,143,49
+Shellfish,144,60
+Shrimp,145,8
+Trassi,146,56
+Squid,147,35
+Bonito,148,78
+Caviar,149,61
+Codfish,150,65
+Fish,151,41
+Fatty Fish,152,96
+Lean Fish,153,62
+Fish Oil,154,60
+Smoked Fish,155,59
+Salmon,156,16
+Artichoke,157,6
+Champaca,158,29
+Jasmine,159,11
+Lavendar,160,52
+Rose,161,19
+Apple,162,75
+Apple Sauce,163,19
+Apricot,164,18
+Avocado,165,50
+Babaco,166,43
+Banana,167,21
+Beli,168,42
+Byrsonima crassifolia,169,44
+Cashew Apple,170,52
+Cherimoya,171,25
+Coconut,172,1
+Currant,173,60
+Black Currant,174,32
+Red Currant,175,87
+White Currant,176,46
+Dates,177,76
+Durian,178,76
+Elderberry,179,47
+Feijoa,180,48
+Fig,181,79
+Grape,182,5
+Guava,183,91
+Hogplum,184,81
+Jackfruit,185,73
+Kiwifruit,186,12
+Litchi,187,41
+Loquat,188,22
+Malay Apple,189,98
+Mango,190,4
+Melon,191,23
+Musk Melon,192,5
+Naranjilla,193,19
+Orange,194,37
+Bitter Orange,195,11
+Papaya,196,55
+Mountain Papaya,197,80
+Passionfruit,198,35
+Yellow Passionfruit,199,47
+Pawpaw,200,8
+Peach,201,83
+Pear,202,2
+Bartlett Pear,203,22
+Prickly Pear,204,95
+Pepino,205,86
+Pineapple,206,45
+Plum,207,25
+Plumcot,208,92
+Pumpkin,209,11
+Quince,210,76
+Chinese Quince,211,66
+Raisin,212,70
+Roseapple,213,90
+Sapodilla,214,34
+Soursop,215,51
+Spineless Monkey Orange,216,43
+Starfruit,217,18
+Tamarind,218,41
+Woodapple,219,93
+Bilberry,221,33
+Blackberry,222,30
+Blueberry,223,38
+Cherry,224,53
+Bitter Cherry,225,95
+Sour Cherry,226,78
+Sweet Cherry,227,70
+Cloudberry,228,48
+Cranberry,229,20
+Gooseberry,230,51
+Lingonberry,231,1
+Loganberry,232,37
+Raspberry,233,20
+Strawberry,234,8
+Strawberry Jam,235,4
+Bergamot,236,58
+Citrus Fruits,237,74
+Grapefruit,238,24
+Kumquat,239,58
+Lemon,240,30
+Lime,241,22
+Mandarin Orange,242,34
+Satsuma Orange,243,6
+Tangerine,244,16
+Vanilla,245,41
+Mushroom,246,43
+Truffle,247,47
+Angelica,248,66
+Artemisia,249,35
+Basil,250,64
+Buckwheat,251,32
+Calamus,252,87
+Chervil,253,15
+Coriander,254,29
+Cornmint,255,30
+Dill,256,31
+Fennel,257,86
+Fenugreek,258,64
+Garlic,259,18
+Lemon Balm,260,67
+Liqourice,261,13
+Mint,262,70
+Rhubarb,263,96
+Rosemary,264,25
+Sage,265,5
+Spearmint,266,36
+Scotch Spearmint,267,80
+Tarragon,268,95
+Thyme,269,17
+Beef,270,72
+Beef Processed,271,41
+Chicken,272,31
+Frankfurter Sausage,273,1
+Ham,274,40
+Lamb,275,51
+Meat,276,51
+Mutton,277,1
+Pork,278,87
+Sukiyaki,279,62
+Turkey,280,67
+Almond,281,73
+Brazil Nut,282,15
+Cocoa,283,98
+Beans,284,93
+Lima Beans,285,0
+Kidney Beans,286,29
+Peanut,287,26
+Peas,288,41
+Soybean,289,63
+Soybean Oil,290,47
+Soybean Sauce,291,95
+Filbert,292,18
+Hazelnut,293,19
+Macadamia Nut,294,62
+Pecans,296,77
+Walnut,297,88
+Muskmallow,298,23
+Sesame,299,0
+Allium,300,37
+Alpinia,301,35
+Ceriman,302,51
+Chicory,303,21
+Hops,304,85
+Laurel,305,10
+Myrtle,306,6
+Olive,307,84
+Pine,308,7
+Sassafras,309,2
+Tea,310,74
+Fermented Tea,311,11
+Tobacco,312,60
+Watercress,313,89
+Creosote,314,81
+Honey,315,3
+Macaroni,316,39
+Mustard Oil,317,84
+Peanut Butter,318,44
+Peanut Oil,319,14
+Rye,320,30
+Storax,321,30
+Vinegar,322,93
+Anise,323,31
+Anise Hyssop,324,24
+Star Anise,325,80
+Caraway,326,77
+Cardamom,327,26
+Cassia,328,86
+Celery,329,59
+Cinnamon,330,50
+Clove,331,47
+Cumin,332,85
+Ginger,333,19
+Mace,334,51
+Marjoram,335,53
+Nutmeg,336,95
+Oregano,337,7
+Parsley,338,70
+Pepper,339,33
+Saffron,340,39
+Turmeric,341,68
+Green Beans,342,87
+Chive,343,54
+Endive,344,17
+Leek,345,30
+Lettuce,346,91
+Okra,347,14
+Onion,348,90
+Shallot,349,41
+Peppermint,350,74
+Broccoli,351,79
+Brussels Sprout,352,33
+Cabbage,353,22
+Cauliflower,354,33
+Horseradish,355,25
+Mustard,356,91
+Radish,357,29
+Turnip,358,50
+Kohlrabi,359,39
+Rutabaga,360,59
+Wasabi,361,80
+Capsicum,362,29
+Cherry Pepper,363,9
+Tomato,364,78
+Chayote,365,68
+Cucumber,366,10
+Beetroot,367,88
+Carrot,368,21
+Parsnip,369,43
+Sweet Potato,370,68
+Asparagus,371,5
+Cassava,372,71
+Potato,373,3
+Fried Potato,374,97
+Allspice,375,63
+Asafoetida,376,33
+Ashgourd,377,52
+Bittergourd,378,58
+Bottlegourd,379,87
+Canola Oil,380,39
+Carom Seed,381,93
+Chard,382,50
+Apple Cider Vinegar,383,55
+Colocasia,384,43
+Curry Leaf,385,73
+Drumstick Leaf,386,77
+Eggplant,387,83
+Flaxseed,388,3
+Jalapeno,389,41
+Kenaf,390,87
+Lotus,391,7
+Nigella Seed,392,2
+Kewda,393,88
+Pomegranate,394,83
+Poppy Seed,395,9
+Spinach,396,24
+Turkey Berry,397,49
+Water Chestnut,398,51
+White Pepper,399,45
+Garcinia Indica,400,75
+Cluster Bean,401,25
+Paneer,402,17
+Pigeon Pea,403,55
+Basmati Rice,404,62
+Ricotta Cheese,405,54
+Silver linden,408,80
+Redskin onion,409,75
+Lemon verbena,410,35
+Cashew nut,411,81
+Burdock,412,54
+Borage,413,88
+Capers,414,89
+Safflower,415,99
+Chestnut,416,70
+Chickpea,417,32
+Pummelo,418,43
+Arabica coffee,419,28
+Japanese persimmon,421,67
+Black crowberry,422,18
+Rocket salad,423,27
+Tartary buckwheat,424,42
+Black huckleberry,425,24
+Sunflower,426,42
+Swamp cabbage,427,25
+Grass pea,428,57
+Lentils,429,49
+Garden cress,430,62
+Mexican oregano,431,0
+Lupine,432,36
+Medlar,433,51
+Mulberry,434,30
+Black mulberry,435,17
+Evening primrose,436,21
+Millet,437,63
+Scarlet bean,438,24
+Pistachio,439,52
+Purslane,440,8
+Red raspberry,441,79
+Black raspberry,442,89
+Sorrel,443,56
+Summer savory,444,96
+Winter savory,445,21
+Cherry tomato,446,46
+Rowanberry,447,87
+Sorghum,448,91
+Dandelion,449,20
+Linden,450,10
+Small leaf linden,451,63
+Wheat,452,61
+Sparkleberry,453,47
+Common verbena,454,69
+Adzuki bean,455,44
+Gram bean,456,54
+Mung bean,457,10
+Climbing bean,458,40
+Muscadine grape,459,39
+Bayberry,460,99
+Elliott's blueberry,461,14
+Canada blueberry,462,49
+Buffalo currant,463,51
+Deerberry,464,73
+Ginseng,465,83
+Longan,466,12
+Rambutan,469,82
+Red rice,470,93
+Welsh onion,472,56
+Hard wheat,473,81
+Triticale,474,49
+Komatsuna,475,53
+Pak choy,476,28
+Jostaberry,477,88
+Kai lan,478,64
+Pineappple sage,480,64
+Skunk currant,481,79
+Breakfast cereal,482,41
+Pasta,484,95
+Biscuit,485,27
+Sourdough,486,78
+Spirit,487,7
+Abalone,489,80
+Abiyuch,490,76
+Acerola,491,56
+Acorn,492,26
+Winter squash,493,89
+Agar,494,22
+Red king crab,495,35
+Alfalfa,496,21
+Amaranth,497,95
+Arrowhead,498,88
+Arrowroot,499,77
+Atlantic herring,500,91
+Atlantic mackerel,501,44
+Painted comber,502,85
+Atlantic pollock,503,74
+Atlantic wolffish,504,84
+Bamboo shoots,505,39
+Striped bass,506,18
+Beaver,507,2
+Beech nut,508,21
+Beluga whale,509,25
+Bison,510,97
+Black bear,511,78
+Alaska blackfish,512,73
+Northern bluefin tuna,513,60
+Bluefish,514,24
+Wild boar,515,60
+Bowhead whale,516,57
+Breadfruit,517,59
+Rapini,519,2
+Brown bear,520,30
+Buffalo,521,46
+Burbot,522,57
+Giant butterbur,523,27
+American butterfish,524,49
+Butternut,525,1
+Butternut squash,526,75
+Cardoon,527,63
+Caribou,528,34
+Natal plum,529,85
+Carob,530,48
+Common carp,531,22
+Channel catfish,532,30
+Chia,533,28
+Chinese chestnut,534,80
+Garland chrysanthemum,535,15
+Cisco,536,70
+Nuttall cockle,537,81
+Common octopus,538,97
+Corn salad,539,51
+Cottonseed,540,67
+Catjang pea,541,89
+Squashberry,542,76
+Atlantic croaker,543,5
+Cusk,544,76
+Cuttlefish,545,93
+Mule deer,546,48
+Devilfish,547,34
+Dock,548,0
+Dolphin fish,549,8
+Freshwater drum,550,49
+Wild duck,551,81
+Freshwater eel,552,74
+Elk,553,41
+Emu,554,98
+Oregon yampah,555,48
+European anchovy,556,44
+European chestnut,557,67
+Turbot,558,17
+Fireweed,559,67
+Florida pompano,560,60
+Ginkgo nuts,561,32
+Greylag goose,562,51
+Greenland halibut,563,78
+Groundcherry,564,17
+Grouper,565,98
+Haddock,566,68
+Hippoglossus,567,94
+Horse,568,95
+Hyacinth bean,569,64
+Irish moss,570,9
+Pacific jack mackerel,571,28
+Japanese chestnut,572,82
+Jerusalem artichoke,573,0
+Jujube,574,98
+Jute,575,55
+Kale,576,97
+King mackerel,577,71
+Lambsquarters,578,35
+Leather chiton,579,90
+Common ling,580,54
+Lingcod,581,32
+White lupine,582,44
+Malabar spinach,583,23
+Mammee apple,584,52
+Purple mangosteen,585,90
+Alpine sweetvetch,586,79
+Milkfish,587,42
+Monkfish,588,52
+Moose,589,54
+Moth bean,590,69
+Mountain yam,591,15
+Striped mullet,592,94
+Muskrat,593,29
+New Zealand spinach,594,79
+Nopal,595,32
+Ocean pout,596,73
+North Pacific giant octopus,597,85
+Ohelo berry,598,34
+Opossum,600,45
+Ostrich,601,63
+Spotted seal,602,52
+Pacific herring,603,70
+Pacific rockfish,604,1
+Common persimmon,606,62
+Pheasant,607,68
+Northern pike,608,24
+Pili nut,609,1
+Colorado pinyon,610,44
+Pitanga,611,79
+French plantain,612,1
+American pokeweed,613,54
+Polar bear,614,61
+Prairie turnip,615,22
+Quinoa,616,59
+European rabbit,617,37
+Raccoon,618,71
+Rainbow smelt,619,59
+Rainbow trout,620,99
+Malabar plum,621,6
+Rose hip,622,83
+Roselle,623,11
+Orange roughy,624,51
+Sablefish,625,28
+Pink salmon,626,79
+Chum salmon,627,38
+Coho salmon,628,41
+Sockeye salmon,629,67
+Chinook salmon,630,31
+Atlantic salmon,631,55
+Salmonberry,632,79
+Common salsify,633,79
+Spanish mackerel,634,52
+Pacific sardine,635,72
+Scup,636,35
+Sea cucumber,637,24
+Steller sea lion,638,68
+Bearded seal,639,25
+Ringed seal,640,85
+Sea trout,641,64
+Sesbania flower,642,8
+American shad,643,63
+Shark,644,63
+Sheefish,645,4
+Sheepshead,646,68
+Hedge mustard,647,6
+Snapper,648,68
+Spelt,649,49
+Spirulina,650,78
+Squab,651,66
+Squirrel,652,27
+Greater sturgeon,653,82
+White sucker,654,40
+Pumpkinseed sunfish,655,77
+Swordfish,656,38
+Taro,657,42
+Teff,658,87
+Tilefish,659,93
+Mexican groundcherry,660,43
+Towel gourd,661,64
+Salmonidae,662,24
+Walleye,663,2
+Alaska pollock,664,37
+Whelk,665,8
+Broad whitefish,667,14
+Whitefish,668,37
+Whiting,669,3
+Wild rice,670,26
+Tea leaf willow,671,57
+Winged bean,672,50
+Yam,673,81
+Jicama,674,20
+Yautia,675,83
+Yellowfin tuna,676,70
+Yellowtail amberjack,677,6
+Pollock,678,41
+Albacore tuna,679,55
+Atlantic halibut,680,13
+Smelt,682,41
+Clupeinae,683,79
+Spiny lobster,684,72
+Black-eyed pea,685,80
+Deer,686,13
+Percoidei,687,75
+Perciformes,688,36
+Rabbit,690,82
+Beefalo,691,64
+Bivalvia,693,56
+Flatfish,694,71
+Walrus,695,61
+Alaska wild rhubarb,696,62
+Oriental wheat,697,98
+Yardlong bean,698,15
+Great horned owl,699,88
+Quail,700,4
+Boysenberry,701,85
+Rowal,702,2
+Jew's ear,703,53
+Shiitake,704,44
+Purple laver,705,56
+Wakame,706,80
+Enokitake,707,1
+Epazote,708,38
+Oyster mushroom,709,89
+Cloud ear fungus,710,90
+Maitake,711,64
+Ostrich fern,712,4
+Spot croaker,713,80
+Sourdock,714,96
+Tinda,715,6
+Atlantic menhaden,716,56
+Agave,717,84
+Narrowleaf cattail,718,71
+Jellyfish,719,88
+Anchovy,720,24
+Blue whiting,721,57
+Carp bream,722,52
+Chanterelle,723,11
+Sturgeon,724,27
+Charr,725,85
+Common dab,726,43
+Spiny dogfish,727,12
+Anatidae,728,47
+Anguilliformes,729,74
+True frog,730,95
+Garfish,731,91
+Gadiformes,732,81
+Mountain hare,733,25
+Lake trout,734,33
+Lemon sole,735,1
+Lumpsucker,736,54
+Scombridae,737,35
+Norway haddock,738,10
+Norway pout,739,73
+Oil palm,740,14
+Sago palm,741,59
+Persimmon,742,71
+Pikeperch,743,55
+Pleuronectidae,744,66
+Rock ptarmigan,745,24
+Pacific ocean perch,746,51
+Black salsify,747,11
+True seal,748,3
+Red algae,749,70
+Kombu,750,67
+Snail,751,79
+True sole,752,79
+Catfish,753,13
+Thistle,754,80
+Common Tuna,755,44
+Cetacea,756,32
+Columbidae,757,84
+Conch,758,45
+Berry wine,759,28
+Vodka,762,11
+Ice cream,763,31
+Vermouth,764,7
+Madeira wine,765,85
+Nougat,766,41
+Toffee,767,37
+Cake,768,74
+Pizza,769,77
+Ymer,770,12
+Pastry,772,87
+Drag̩e,773,52
+Chewing gum,774,60
+Marzipan,775,84
+Salad dressing,776,19
+Salt,778,71
+Cream,780,56
+Sugar,781,64
+Sausage,782,85
+Meatball,783,26
+Pate,784,86
+Meat bouillon,786,50
+Whey,788,64
+Casein,789,17
+Leavening agent,791,64
+Marshmallow,792,8
+Gelatin,793,84
+Water,794,82
+Milk Human,796,79
+Dumpling,799,47
+Soup,800,71
+Syrup,803,27
+Remoulade,805,93
+Chocolate spread,806,93
+Fruit gum,807,33
+Meringue,810,17
+Cocoa butter,814,18
+Cocoa powder,815,9
+Chocolate,817,70
+Hot chocolate,818,59
+Kefir,820,14
+Miso,822,68
+Tofu,823,37
+Zwieback,824,63
+Roe,825,99
+Cichlidae,826,49
+Icing,827,97
+Snack bar,828,58
+Green turtle,829,60
+Burrito,831,38
+Hamburger,832,52
+Taco,834,24
+Tortilla,835,63
+Nachos,836,31
+Salad,837,0
+Dulce de leche,839,50
+Topping,840,54
+Sweet custard,841,30
+Egg roll,842,43
+Heart of palm,843,60
+Potato chip,845,42
+Tortilla chip,846,30
+Corn chip,847,71
+Hibiscus tea,848,1
+Stew,849,56
+Gelatin dessert,850,91
+Junket,851,53
+Falafel,852,68
+Frybread,853,64
+Lasagna,855,75
+Morchella,856,33
+Pancake,857,28
+Pectin,858,66
+Pudding,859,85
+Waffle,860,64
+Soy milk,861,17
+Meatloaf,862,15
+Cocktail,863,57
+Couscous,864,64
+Bulgur,865,12
+Coffee mocha,867,10
+Chimichanga,868,92
+Semolina,869,57
+Tapioca pearl,870,38
+Tostada,871,54
+Quesadilla,872,39
+Baked potato,873,71
+Hot dog,874,92
+Spread,875,10
+Enchilada,876,49
+Ketchup,880,0
+Adobo,882,19
+Horned melon,884,64
+Hushpuppy,885,43
+Fruit juice,886,48
+Relish,887,16
+Fruit salad,889,51
+Soy yogurt,890,59
+Cold cut,893,29
+Mixed nuts,894,41
+Babassu palm,895,79
+Shea tree,897,49
+Oil-seed Camellia,898,65
+Ucuhuba,899,36
+Phyllo dough,900,18
+Cooking oil,901,87
+Pie crust,902,30
+Pie,904,17
+Shortening,905,72
+Soy cream,906,35
+Ice cream cone,907,45
+Molasses,908,84
+Nance,909,30
+Natto,911,50
+Ravioli,912,76
+Scrapple,913,69
+Succotash,915,50
+Tamale,916,98
+Rice cake,917,14
+Tree fern,918,40
+Evaporated milk,919,85
+Flour,920,3
+Akutaq,921,63
+Pita bread,923,57
+Focaccia,924,11
+Bagel,925,35
+Piki bread,927,82
+French toast,928,49
+Oat bread,929,79
+Potato bread,930,45
+Cornbread,931,33
+Corn grits,932,53
+Multigrain bread,933,82
+Rice bread,934,73
+Pan dulce,935,24
+Raisin bread,936,7
+Wonton wrapper,937,69
+Trail mix,938,28
+Greenthread tea,939,92
+Vegetable juice,941,33
+Horchata,942,34
+Soft drink,943,1
+Milkshake,944,22
+Chocolate mousse,945,57
+Pupusa,947,59
+Empanada,948,75
+Arepa,949,76
+Ascidians,950,85
+Gefilte fish,951,3
+Yellow pond lily,952,26
+Fish burger,953,79
+Pot pie,955,45
+Stuffing,956,72
+Fudge,958,12
+Candy bar,959,6
+Condensed milk,960,40
+Margarine,961,97
+Hummus,963,89
+Potato puffs,964,29
+Potato gratin,965,54
+Chinese bayberry,967,47
+Green zucchini,968,81
+Zucchini,969,2
+Saskatoon berry,970,53
+Nanking cherry,971,87
+Japanese pumpkin,972,13
+Guinea hen,977,14
+Cucurbita,978,69
+Anise Oil,979,94
+Apple Juice,980,34
+Coconut Milk,981,68
+Coconut Oil,982,92
+Hops Beer,983,75
+Lemon Juice,984,0
+Brown Rice,985,24
+Tomato Juice,986,31
+Tomato Paste,987,20
+Tomato Puree,988,54
+Coriander Seed,989,52
+Lard,990,50
+Cured Ham,991,25
+Cayenne,992,91
+Yeast,993,6
+Tequila,994,40
+Sauerkraut,995,58
+Baking Powder,996,59
+Monosodium Glutamate,997,81
+Citric Acid,998,94
+Cooking Spray,999,79
+Food Coloring,1001,7
+Liquid Smoke,1002,99
+Garam Masala,2000,89
+Ginger Garlic Paste,2001,58
+Coriander Cumin Seed Powder,2002,8
+Chaat Masala,2003,72
+Sambar Powder,2004,32
+Chole Masala,2005,71
+Rasam Powder,2006,6
+Tandoori Masala,2007,12
+Curry Powder,2008,50
+Panch Pharon Seed,2009,97
+Chicken Masala Powder,2010,31
+Goda Masala,2011,36
+Jal Jeera Powder,2012,80
+Ginger Garlic Coriander Leaves,2013,50
+Pulao Masala,2014,17
+Dabeli Masala,2015,43
+Cake Mix,2016,87
+Half Half,2017,3
+Ale,2018,60
+Vermicelli,2019,38
+Self Rising Flour,2020,78
+Mayonnaise,2021,75
+Salt-Pepper,2022,86
+Croissant,2023,63
+Puff Pastry,2024,34
+Green Chutney,2025,65
+Cajun Seasoning,2026,32
+Vegetable Broth,2027,42
+Tandoori Paste,2028,48
+Mixed Vegetables,2029,58
+Salad Creme,2030,75
+Worcestershite Sauce,2031,21
+Coleslaw,2032,57
+Vegetable Stock,2033,27
+Mascarpone,2034,18
+Fettuccine,2035,26
+Italian Seasoning,2036,92
+Spinach Fettuccine,2038,79
+Hoisin Sauce,2039,49
+Barbeque Sauce,2040,82
+Sponge Cake,2041,1
+Baking Mix,2042,13
+Hot Sauce,2043,17
+Dried Mixed Fruit,2044,20
+Candied Mixed Fruit,2045,9
+Gulkand,2046,9
+Pancetta,2047,95
+Phyllo,2048,37
+Pie Crust,2049,30
+Prosciutto,2050,53
+Creole Seasoning,2051,50
+Chinese Five Spice Powder,2052,89
+Old Bay Seasoning,2053,15
+Adobo Sauce,2054,71
+Cracker Crumb,2055,68
+Ranch Dressing,2057,79
+Poultry Seasoning,2058,44
+Tahini,2059,35
+Herbe de Provence,2060,70
+Tart Shell,2061,66
+Bear,2065,67
+Whale,2066,26
+Seal,2068,14
+Tuna,2069,30
+Croaker,2070,7
+Mackerel,2071,97
+Perch,2074,21
+Hibiscus Tea,2077,42
+Octopus,2079,51
+Oat Bread,2080,37
+Pita Bread,2081,21
+Raisin Bread,2082,8
+Multigrain Bread,2083,92
+Pout,2085,25
+Herring,2086,91
+Cooking Oil,2089,87
+Rice Cake,2090,40
+Trout,2091,89
+Halibut,2093,48
+Cider Vinegar,2102,80

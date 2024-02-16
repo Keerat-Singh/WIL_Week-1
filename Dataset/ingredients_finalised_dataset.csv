@@ -1,0 +1,1010 @@
+Ingredient Name,Entity ID,Category,Price,StockQuantity
+Egg,0,Meat,$6,87
+Bread,2,Bakery,$14,5
+Rye Bread,3,Bakery,$7,99
+Wheaten Bread,4,Bakery,$17,82
+White Bread,5,Bakery,$13,43
+Wholewheat Bread,6,Bakery,$1,100
+Wort,7,Beverage,$7,21
+Arrack,8,Beverage Alcoholic,$7,16
+Beer,9,Beverage Alcoholic,$15,81
+Bantu Beer,10,Beverage Alcoholic,$9,2
+Brandy,11,Beverage Alcoholic,$1,60
+Anise Brandy,12,Beverage Alcoholic,$16,88
+Apple Brandy,13,Beverage Alcoholic,$12,61
+Armagnac Brandy,14,Beverage Alcoholic,$6,6
+Blackberry Brandy,15,Beverage Alcoholic,$9,25
+Cherry Brandy,16,Beverage Alcoholic,$6,39
+Cognac Brandy,17,Beverage Alcoholic,$13,97
+Papaya Brandy,18,Beverage Alcoholic,$14,82
+Pear Brandy,19,Beverage Alcoholic,$2,99
+Plum Brandy,20,Beverage Alcoholic,$6,64
+Raspberry Brandy,21,Beverage Alcoholic,$15,76
+Weinbrand Brandy,22,Beverage Alcoholic,$4,96
+Gin,23,Beverage Alcoholic,$1,71
+Rum,24,Beverage Alcoholic,$14,32
+Whisky,25,Beverage Alcoholic,$12,58
+Bourbon Whisky,26,Beverage Alcoholic,$11,78
+Canadian Whisky,27,Beverage Alcoholic,$12,58
+Finnish Whisky,28,Beverage Alcoholic,$3,1
+Japanese Whisky,29,Beverage Alcoholic,$19,75
+Malt Whisky,30,Beverage Alcoholic,$5,12
+Scotch,31,Beverage Alcoholic,$6,83
+Wine,32,Beverage Alcoholic,$15,94
+Bilberry Wine,33,Beverage Alcoholic,$10,69
+Botrytized Wine,34,Beverage Alcoholic,$16,45
+Champagne,35,Beverage Alcoholic,$18,14
+Cider,36,Beverage Alcoholic,$14,85
+Plum Wine,37,Beverage Alcoholic,$2,6
+Port Wine,38,Beverage Alcoholic,$19,49
+Red Wine,39,Beverage Alcoholic,$16,76
+Rose Wine,40,Beverage Alcoholic,$15,68
+Sake,41,Beverage Alcoholic,$19,81
+Sherry,42,Beverage Alcoholic,$4,56
+Sparkling Wine,43,Beverage Alcoholic,$3,64
+Strawberry Wine,44,Beverage Alcoholic,$10,63
+White Wine,45,Beverage Alcoholic,$15,22
+Coffee,46,Beverage,$18,62
+Mate,47,Beverage,$12,81
+Black Tea,48,Beverage,$12,45
+Green Tea,49,Beverage,$1,9
+Roibos Tea,50,Beverage,$16,34
+Barley,51,Cereal,$11,100
+Crispbread,52,Cereal,$8,48
+Malt,53,Cereal,$13,60
+Oats,54,Cereal,$17,11
+Rice,55,Cereal,$1,95
+Corn,56,Maize,$1,31
+Corn Oil,57,Maize,$6,32
+Popcorn,58,Maize,$3,38
+Sweetcorn,59,Maize,$6,95
+Butter,60,Dairy,$11,85
+Buttermilk,61,Dairy,$12,60
+Cheese,62,Dairy,$13,23
+Blue Cheese,63,Dairy,$3,59
+Camembert Cheese,64,Dairy,$19,62
+Cheddar Cheese,65,Dairy,$14,3
+Comte Cheese,66,Dairy,$17,81
+Cottage Cheese,67,Dairy,$1,73
+Cream Cheese,68,Dairy,$19,36
+Domiati Cheese,69,Dairy,$1,12
+Emmental Cheese,70,Dairy,$17,72
+Feta Cheese,71,Dairy,$17,15
+Goat Cheese,72,Dairy,$16,54
+Gruyere Cheese,73,Dairy,$16,47
+Limburger Cheese,74,Dairy,$19,19
+Mozzarella Cheese,75,Dairy,$9,73
+Munster Cheese,76,Dairy,$11,57
+Parmesan Cheese,78,Dairy,$10,85
+Provolone Cheese,79,Dairy,$1,25
+Romano Cheese,80,Dairy,$10,13
+Roquefort Cheese,81,Dairy,$13,8
+Russian Cheese,82,Dairy,$8,46
+Sheep Cheese,83,Dairy,$6,88
+Swiss Cheese,84,Dairy,$6,40
+Tilsit Cheese,85,Dairy,$16,27
+Ghee,87,Dairy,$1,1
+Milk,88,Dairy,$12,62
+Milk Fat,89,Dairy,$6,16
+Goat Milk,90,Dairy,$16,18
+Milk Powder,91,Dairy,$15,96
+Sheep Milk,92,Dairy,$15,60
+Skimmed Milk,93,Dairy,$11,6
+Yogurt,94,Dairy,$8,14
+Achilleas,95,Essential Oil,$3,14
+Arar,96,Essential Oil,$6,17
+Buchu,97,Essential Oil,$14,53
+Cajeput,98,Essential Oil,$9,75
+Camphor,99,Essential Oil,$5,62
+Cascarilla,100,Essential Oil,$10,23
+Cedar,101,Essential Oil,$20,84
+Chamomile,102,Essential Oil,$1,5
+Citronella Oil,103,Essential Oil,$5,43
+Citrus Peel Oil,104,Essential Oil,$1,37
+Eucalyptus Oil,105,Essential Oil,$10,24
+Fir,106,Essential Oil,$16,19
+Geranium,107,Essential Oil,$15,49
+Grapefruit Peel Oil,108,Essential Oil,$3,9
+Grass,109,Essential Oil,$20,38
+Hops Oil,110,Essential Oil,$20,50
+Hyacinth,111,Essential Oil,$20,83
+Hyssop Oil,112,Essential Oil,$20,12
+Lemon Grass,113,Essential Oil,$5,65
+Lemon Peel Oil,114,Essential Oil,$10,33
+Lime Peel Oil,115,Essential Oil,$17,23
+Lovage,116,Essential Oil,$11,39
+Mandarin Orange Peel Oil,117,Essential Oil,$11,55
+Mastic Gum,118,Essential Oil,$4,12
+Mentha Oil,119,Essential Oil,$8,38
+Myrrh,120,Essential Oil,$3,23
+Neroli Oil,121,Essential Oil,$19,57
+Orange Oil,122,Essential Oil,$1,25
+Orris,123,Essential Oil,$18,21
+Clary Sage,124,Essential Oil,$5,97
+Red Sage,125,Essential Oil,$10,50
+Spanish Sage,126,Essential Oil,$8,42
+Sandalwood,127,Essential Oil,$10,87
+Sea Buckthorns,128,Fruit,$16,33
+Sweet Grass,129,Essential Oil,$13,42
+Valerian,130,Essential Oil,$9,88
+Wattle,131,Essential Oil,$8,84
+Yarrow,132,Essential Oil,$10,4
+Ylang-Ylang,133,Essential Oil,$11,40
+Clam,134,Seafood,$6,81
+Crab,135,Seafood,$9,11
+Crayfish,136,Seafood,$13,61
+Kelp,137,Seafood,$4,49
+Krill,138,Seafood,$10,68
+Lobster,139,Seafood,$9,32
+Mollusc,140,Seafood,$7,72
+Oyster,141,Seafood,$7,2
+Prawn,142,Seafood,$9,94
+Scallop,143,Seafood,$13,51
+Shellfish,144,Seafood,$12,40
+Shrimp,145,Seafood,$5,92
+Trassi,146,Seafood,$3,44
+Squid,147,Seafood,$18,65
+Bonito,148,Fish,$20,22
+Caviar,149,Fish,$17,39
+Codfish,150,Fish,$1,35
+Fish,151,Fish,$17,59
+Fatty Fish,152,Fish,$8,4
+Lean Fish,153,Fish,$12,38
+Fish Oil,154,Fish,$17,40
+Smoked Fish,155,Fish,$4,41
+Salmon,156,Fish,$10,84
+Artichoke,157,Flower,$6,94
+Champaca,158,Flower,$13,71
+Jasmine,159,Flower,$14,89
+Lavendar,160,Flower,$4,48
+Rose,161,Flower,$5,81
+Apple,162,Fruit,$13,25
+Apple Sauce,163,Fruit,$17,81
+Apricot,164,Fruit,$12,82
+Avocado,165,Fruit,$11,50
+Babaco,166,Fruit,$1,57
+Banana,167,Fruit,$1,79
+Beli,168,Fruit,$12,58
+Byrsonima crassifolia,169,Fruit,$17,56
+Cashew Apple,170,Fruit,$16,48
+Cherimoya,171,Fruit,$8,75
+Coconut,172,Fruit,$20,99
+Currant,173,Fruit,$5,40
+Black Currant,174,Fruit,$6,68
+Red Currant,175,Fruit,$6,13
+White Currant,176,Fruit,$13,54
+Dates,177,Fruit,$6,24
+Durian,178,Fruit,$12,24
+Elderberry,179,Fruit,$12,53
+Feijoa,180,Fruit,$15,52
+Fig,181,Fruit,$6,21
+Grape,182,Fruit,$13,95
+Guava,183,Fruit,$9,9
+Hogplum,184,Fruit,$20,19
+Jackfruit,185,Fruit,$11,27
+Kiwifruit,186,Fruit,$11,88
+Litchi,187,Fruit,$1,59
+Loquat,188,Fruit,$2,78
+Malay Apple,189,Fruit,$15,2
+Mango,190,Fruit,$17,96
+Melon,191,Fruit,$15,77
+Musk Melon,192,Fruit,$4,95
+Naranjilla,193,Fruit,$3,81
+Orange,194,Fruit,$8,63
+Bitter Orange,195,Fruit,$1,89
+Papaya,196,Fruit,$1,45
+Mountain Papaya,197,Fruit,$8,20
+Passionfruit,198,Fruit,$17,65
+Yellow Passionfruit,199,Fruit,$10,53
+Pawpaw,200,Fruit,$9,92
+Peach,201,Fruit,$3,17
+Pear,202,Fruit,$4,98
+Bartlett Pear,203,Fruit,$6,78
+Prickly Pear,204,Fruit,$16,5
+Pepino,205,Fruit,$15,14
+Pineapple,206,Fruit,$8,55
+Plum,207,Fruit,$18,75
+Plumcot,208,Fruit,$6,8
+Pumpkin,209,Fruit,$17,89
+Quince,210,Fruit,$13,24
+Chinese Quince,211,Fruit,$6,34
+Raisin,212,Fruit,$4,30
+Roseapple,213,Fruit,$8,10
+Sapodilla,214,Fruit,$15,66
+Soursop,215,Fruit,$5,49
+Spineless Monkey Orange,216,Fruit,$17,57
+Starfruit,217,Fruit,$1,82
+Tamarind,218,Fruit,$19,59
+Woodapple,219,Fruit,$1,7
+Bilberry,221,Fruit,$2,67
+Blackberry,222,Fruit,$11,70
+Blueberry,223,Fruit,$16,62
+Cherry,224,Fruit,$10,47
+Bitter Cherry,225,Fruit,$16,5
+Sour Cherry,226,Fruit,$14,22
+Sweet Cherry,227,Fruit,$12,30
+Cloudberry,228,Fruit,$19,52
+Cranberry,229,Fruit,$15,80
+Gooseberry,230,Fruit,$18,49
+Lingonberry,231,Fruit,$13,99
+Loganberry,232,Fruit,$3,63
+Raspberry,233,Fruit,$20,80
+Strawberry,234,Fruit,$3,92
+Strawberry Jam,235,Fruit,$11,96
+Bergamot,236,Fruit,$2,42
+Citrus Fruits,237,Fruit,$15,26
+Grapefruit,238,Fruit,$10,76
+Kumquat,239,Fruit,$4,42
+Lemon,240,Fruit,$12,70
+Lime,241,Fruit,$19,78
+Mandarin Orange,242,Fruit,$17,66
+Satsuma Orange,243,Fruit,$17,94
+Tangerine,244,Fruit,$16,84
+Vanilla,245,Fruit,$17,59
+Mushroom,246,Fungus,$3,57
+Truffle,247,Fungus,$7,53
+Angelica,248,Herb,$17,34
+Artemisia,249,Herb,$1,65
+Basil,250,Herb,$8,36
+Buckwheat,251,Herb,$16,68
+Calamus,252,Herb,$2,13
+Chervil,253,Herb,$19,85
+Coriander,254,Herb,$18,71
+Cornmint,255,Herb,$11,70
+Dill,256,Herb,$3,69
+Fennel,257,Herb,$15,14
+Fenugreek,258,Herb,$15,36
+Garlic,259,Herb,$7,82
+Lemon Balm,260,Herb,$8,33
+Liqourice,261,Herb,$5,87
+Mint,262,Herb,$7,30
+Rhubarb,263,Herb,$15,4
+Rosemary,264,Herb,$4,75
+Sage,265,Herb,$7,95
+Spearmint,266,Herb,$15,64
+Scotch Spearmint,267,Herb,$14,20
+Tarragon,268,Herb,$7,5
+Thyme,269,Herb,$2,83
+Beef,270,Meat,$10,28
+Beef Processed,271,Meat,$18,59
+Chicken,272,Meat,$14,69
+Frankfurter Sausage,273,Dish,$11,99
+Ham,274,Meat,$12,60
+Lamb,275,Meat,$19,49
+Meat,276,Meat,$5,49
+Mutton,277,Meat,$16,99
+Pork,278,Meat,$6,13
+Sukiyaki,279,Meat,$13,38
+Turkey,280,Meat,$16,33
+Almond,281,Nuts & Seed,$19,27
+Brazil Nut,282,Nuts & Seed,$10,85
+Cocoa,283,Nuts & Seed,$20,2
+Beans,284,Legume,$9,7
+Lima Beans,285,Legume,$15,100
+Kidney Beans,286,Legume,$14,71
+Peanut,287,Nuts & Seed,$17,74
+Peas,288,Legume,$17,59
+Soybean,289,Legume,$8,37
+Soybean Oil,290,Legume,$14,53
+Soybean Sauce,291,Plant,$5,5
+Filbert,292,Nuts & Seed,$17,82
+Hazelnut,293,Nuts & Seed,$13,81
+Macadamia Nut,294,Nuts & Seed,$10,38
+Pecans,296,Nuts & Seed,$6,23
+Walnut,297,Nuts & Seed,$1,12
+Muskmallow,298,Nuts & Seed,$13,77
+Sesame,299,Nuts & Seed,$14,100
+Allium,300,Plant,$17,63
+Alpinia,301,Plant,$2,65
+Ceriman,302,Plant,$20,49
+Chicory,303,Plant,$15,79
+Hops,304,Plant,$2,15
+Laurel,305,Plant,$8,90
+Myrtle,306,Plant,$15,94
+Olive,307,Plant,$14,16
+Pine,308,Plant,$16,93
+Sassafras,309,Plant,$12,98
+Tea,310,Plant,$10,26
+Fermented Tea,311,Plant,$20,89
+Tobacco,312,Plant,$6,40
+Watercress,313,Plant,$10,11
+Creosote,314,Plant,$19,19
+Honey,315,Plant,$20,97
+Macaroni,316,Plant,$10,61
+Mustard Oil,317,Plant,$13,16
+Peanut Butter,318,Plant,$15,56
+Peanut Oil,319,Plant,$19,86
+Rye,320,Cereal,$6,70
+Storax,321,Plant,$17,70
+Vinegar,322,Plant,$2,7
+Anise,323,Spice,$14,69
+Anise Hyssop,324,Spice,$4,76
+Star Anise,325,Spice,$1,20
+Caraway,326,Spice,$14,23
+Cardamom,327,Spice,$13,74
+Cassia,328,Spice,$18,14
+Celery,329,Spice,$13,41
+Cinnamon,330,Spice,$12,50
+Clove,331,Spice,$14,53
+Cumin,332,Spice,$9,15
+Ginger,333,Spice,$2,81
+Mace,334,Spice,$2,49
+Marjoram,335,Spice,$4,47
+Nutmeg,336,Spice,$12,5
+Oregano,337,Spice,$20,93
+Parsley,338,Spice,$17,30
+Pepper,339,Spice,$2,67
+Saffron,340,Spice,$10,61
+Turmeric,341,Spice,$10,32
+Green Beans,342,Vegetable,$8,13
+Chive,343,Vegetable,$19,46
+Endive,344,Vegetable,$12,83
+Leek,345,Vegetable,$2,70
+Lettuce,346,Vegetable,$3,9
+Okra,347,Vegetable,$16,86
+Onion,348,Vegetable,$10,10
+Shallot,349,Vegetable,$4,59
+Peppermint,350,Herb,$13,26
+Broccoli,351,Vegetable,$18,21
+Brussels Sprout,352,Vegetable,$18,67
+Cabbage,353,Vegetable,$2,78
+Cauliflower,354,Vegetable,$6,67
+Horseradish,355,Vegetable,$6,75
+Mustard,356,Vegetable,$20,9
+Radish,357,Vegetable,$6,71
+Turnip,358,Vegetable,$6,50
+Kohlrabi,359,Vegetable,$5,61
+Rutabaga,360,Vegetable,$2,41
+Wasabi,361,Vegetable,$10,20
+Capsicum,362,Vegetable,$6,71
+Cherry Pepper,363,Vegetable,$18,91
+Tomato,364,Vegetable,$11,22
+Chayote,365,Vegetable,$20,32
+Cucumber,366,Vegetable,$13,90
+Beetroot,367,Vegetable,$6,12
+Carrot,368,Vegetable,$18,79
+Parsnip,369,Vegetable,$14,57
+Sweet Potato,370,Vegetable,$12,32
+Asparagus,371,Vegetable,$3,95
+Cassava,372,Vegetable,$10,29
+Potato,373,Vegetable,$1,97
+Fried Potato,374,Bakery,$1,3
+Allspice,375,Spice,$5,37
+Asafoetida,376,Spice,$13,67
+Ashgourd,377,Vegetable,$19,48
+Bittergourd,378,Vegetable,$8,42
+Bottlegourd,379,Vegetable,$6,13
+Canola Oil,380,Essential Oil,$2,61
+Carom Seed,381,Spice,$5,7
+Chard,382,Vegetable,$20,50
+Apple Cider Vinegar,383,Plant,$6,45
+Colocasia,384,Vegetable,$3,57
+Curry Leaf,385,Herb,$11,27
+Drumstick Leaf,386,Vegetable,$8,23
+Eggplant,387,Vegetable,$14,17
+Flaxseed,388,Nuts & Seed,$12,97
+Jalapeno,389,Spice,$20,59
+Kenaf,390,Essential Oil,$4,13
+Lotus,391,Essential Oil,$15,93
+Nigella Seed,392,Nuts & Seed,$1,98
+Kewda,393,Essential Oil,$5,12
+Pomegranate,394,Fruit,$9,17
+Poppy Seed,395,Spice,$20,91
+Spinach,396,Vegetable,$1,76
+Turkey Berry,397,Vegetable,$2,51
+Water Chestnut,398,Fruit,$20,49
+White Pepper,399,Spice,$14,55
+Garcinia Indica,400,Fruit,$10,25
+Cluster Bean,401,Legume,$3,75
+Paneer,402,Dairy,$7,83
+Pigeon Pea,403,Legume,$12,45
+Basmati Rice,404,Cereal,$1,38
+Ricotta Cheese,405,Dairy,$2,46
+Silver linden,408,Herb,$18,20
+Redskin onion,409,Vegetable,$2,25
+Lemon verbena,410,Herb,$1,65
+Cashew nut,411,Nuts & Seed,$12,19
+Burdock,412,Vegetable,$6,46
+Borage,413,Herb,$16,12
+Capers,414,Herb,$12,11
+Safflower,415,Herb,$13,1
+Chestnut,416,Nuts & Seed,$12,30
+Chickpea,417,Legume,$1,68
+Pummelo,418,Fruit,$16,57
+Arabica coffee,419,Beverage,$5,72
+Japanese persimmon,421,Fruit,$3,33
+Black crowberry,422,Fruit,$9,82
+Rocket salad,423,Herb,$6,73
+Tartary buckwheat,424,Cereal,$18,58
+Black huckleberry,425,Fruit,$6,76
+Sunflower,426,Flower,$9,58
+Swamp cabbage,427,Vegetable,$5,75
+Grass pea,428,Legume,$5,43
+Lentils,429,Legume,$14,51
+Garden cress,430,Herb,$10,38
+Mexican oregano,431,Herb,$20,100
+Lupine,432,Plant,$10,64
+Medlar,433,Fruit,$10,49
+Mulberry,434,Fruit,$13,70
+Black mulberry,435,Fruit,$13,83
+Evening primrose,436,Herb,$1,79
+Millet,437,Legume,$12,37
+Scarlet bean,438,Legume,$14,76
+Pistachio,439,Nuts & Seed,$9,48
+Purslane,440,Plant,$19,92
+Red raspberry,441,Fruit,$15,21
+Black raspberry,442,Fruit,$15,11
+Sorrel,443,Herb,$1,44
+Summer savory,444,Herb,$8,4
+Winter savory,445,Herb,$10,79
+Cherry tomato,446,Fruit,$19,54
+Rowanberry,447,Fruit,$14,13
+Sorghum,448,Cereal,$11,9
+Dandelion,449,Flower,$19,80
+Linden,450,Herb,$9,90
+Small leaf linden,451,Plant,$11,37
+Wheat,452,Cereal,$7,39
+Sparkleberry,453,Fruit,$4,53
+Common verbena,454,Herb,$1,31
+Adzuki bean,455,Legume,$7,56
+Gram bean,456,Legume,$8,46
+Mung bean,457,Legume,$16,90
+Climbing bean,458,Legume,$19,60
+Muscadine grape,459,Fruit,$14,61
+Bayberry,460,Fruit,$1,1
+Elliott's blueberry,461,Fruit,$1,86
+Canada blueberry,462,Fruit,$11,51
+Buffalo currant,463,Fruit,$2,49
+Deerberry,464,Fruit,$13,27
+Ginseng,465,Vegetable,$8,17
+Longan,466,Plant,$16,88
+Rambutan,469,Fruit,$6,18
+Red rice,470,Cereal,$12,7
+Welsh onion,472,Vegetable,$4,44
+Hard wheat,473,Cereal,$4,19
+Triticale,474,Cereal,$5,51
+Komatsuna,475,Vegetable,$12,47
+Pak choy,476,Vegetable,$12,72
+Jostaberry,477,Fruit,$4,12
+Kai lan,478,Vegetable,$2,36
+Pineappple sage,480,Herb,$19,36
+Skunk currant,481,Fruit,$13,21
+Breakfast cereal,482,Cereal,$15,59
+Pasta,484,Bakery,$14,5
+Biscuit,485,Bakery,$17,73
+Sourdough,486,Cereal,$18,22
+Spirit,487,Beverage Alcoholic,$12,93
+Abalone,489,Fungus,$3,20
+Abiyuch,490,Plant,$2,24
+Acerola,491,Fruit,$14,44
+Acorn,492,Nuts & Seed,$20,74
+Winter squash,493,Fruit,$11,11
+Agar,494,Additive,$14,78
+Red king crab,495,Seafood,$6,65
+Alfalfa,496,Herb,$9,79
+Amaranth,497,Herb,$19,5
+Arrowhead,498,Vegetable,$12,12
+Arrowroot,499,Vegetable,$1,23
+Atlantic herring,500,Fish,$8,9
+Atlantic mackerel,501,Fish,$12,56
+Painted comber,502,Fish,$3,15
+Atlantic pollock,503,Fish,$17,26
+Atlantic wolffish,504,Fish,$6,16
+Bamboo shoots,505,Plant,$18,61
+Striped bass,506,Fish,$1,82
+Beaver,507,Meat,$19,98
+Beech nut,508,Nuts & Seed,$10,79
+Beluga whale,509,Fish,$19,75
+Bison,510,Meat,$14,3
+Black bear,511,Meat,$4,22
+Alaska blackfish,512,Fish,$5,27
+Northern bluefin tuna,513,Fish,$3,40
+Bluefish,514,Fish,$17,76
+Wild boar,515,Meat,$4,40
+Bowhead whale,516,Fish,$20,43
+Breadfruit,517,Fruit,$15,41
+Rapini,519,Vegetable,$10,98
+Brown bear,520,Meat,$8,70
+Buffalo,521,Meat,$6,54
+Burbot,522,Fish,$12,43
+Giant butterbur,523,Plant,$15,73
+American butterfish,524,Fish,$10,51
+Butternut,525,Nuts & Seed,$8,99
+Butternut squash,526,Fruit,$13,25
+Cardoon,527,Plant,$4,37
+Caribou,528,Meat,$15,66
+Natal plum,529,Fruit,$18,15
+Carob,530,Plant,$15,52
+Common carp,531,Fish,$8,78
+Channel catfish,532,Fish,$8,70
+Chia,533,Herb,$10,72
+Chinese chestnut,534,Nuts & Seed,$20,20
+Garland chrysanthemum,535,Flower,$18,85
+Cisco,536,Fish,$19,30
+Nuttall cockle,537,Fish,$8,19
+Common octopus,538,Seafood,$1,3
+Corn salad,539,Vegetable,$9,49
+Cottonseed,540,Plant,$5,33
+Catjang pea,541,Legume,$1,11
+Squashberry,542,Fruit,$13,24
+Atlantic croaker,543,Fish,$18,95
+Cusk,544,Fish,$1,24
+Cuttlefish,545,Fish,$16,7
+Mule deer,546,Meat,$5,52
+Devilfish,547,Fish,$17,66
+Dock,548,Herb,$16,100
+Dolphin fish,549,Fish,$13,92
+Freshwater drum,550,Fish,$15,51
+Wild duck,551,Meat,$8,19
+Freshwater eel,552,Fish,$10,26
+Elk,553,Meat,$13,59
+Emu,554,Meat,$9,2
+Oregon yampah,555,Plant,$2,52
+European anchovy,556,Fish,$7,56
+European chestnut,557,Nuts & Seed,$1,33
+Turbot,558,Fish,$20,83
+Fireweed,559,Herb,$18,33
+Florida pompano,560,Fish,$4,40
+Ginkgo nuts,561,Nuts & Seed,$8,68
+Greylag goose,562,Meat,$14,49
+Greenland halibut,563,Fish,$15,22
+Groundcherry,564,Fruit,$7,83
+Grouper,565,Fish,$20,2
+Haddock,566,Fish,$11,32
+Hippoglossus,567,Fish,$14,6
+Horse,568,Meat,$5,5
+Hyacinth bean,569,Legume,$4,36
+Irish moss,570,Seafood,$13,91
+Pacific jack mackerel,571,Fish,$11,72
+Japanese chestnut,572,Nuts & Seed,$9,18
+Jerusalem artichoke,573,Vegetable,$19,100
+Jujube,574,Fruit,$6,2
+Jute,575,Plant,$11,45
+Kale,576,Vegetable,$4,3
+King mackerel,577,Fish,$14,29
+Lambsquarters,578,Plant,$6,65
+Leather chiton,579,Seafood,$13,10
+Common ling,580,Fish,$7,46
+Lingcod,581,Fish,$18,68
+White lupine,582,Plant,$17,56
+Malabar spinach,583,Vegetable,$14,77
+Mammee apple,584,Fruit,$1,48
+Purple mangosteen,585,Fruit,$11,10
+Alpine sweetvetch,586,Plant,$14,21
+Milkfish,587,Fish,$3,58
+Monkfish,588,Fish,$14,48
+Moose,589,Meat,$15,46
+Moth bean,590,Legume,$9,31
+Mountain yam,591,Vegetable,$12,85
+Striped mullet,592,Fish,$5,6
+Muskrat,593,Meat,$5,71
+New Zealand spinach,594,Vegetable,$11,21
+Nopal,595,Plant,$1,68
+Ocean pout,596,Fish,$10,27
+North Pacific giant octopus,597,Seafood,$14,15
+Ohelo berry,598,Fruit,$14,66
+Opossum,600,Meat,$10,55
+Ostrich,601,Meat,$8,37
+Spotted seal,602,Seafood,$6,48
+Pacific herring,603,Fish,$5,30
+Pacific rockfish,604,Fish,$18,99
+Common persimmon,606,Fruit,$10,38
+Pheasant,607,Meat,$14,32
+Northern pike,608,Fish,$18,76
+Pili nut,609,Nuts & Seed,$14,99
+Colorado pinyon,610,Plant,$9,56
+Pitanga,611,Fruit,$3,21
+French plantain,612,Plant,$20,99
+American pokeweed,613,Herb,$15,46
+Polar bear,614,Meat,$9,39
+Prairie turnip,615,Vegetable,$6,78
+Quinoa,616,Cereal,$6,41
+European rabbit,617,Meat,$15,63
+Raccoon,618,Meat,$7,29
+Rainbow smelt,619,Fish,$17,41
+Rainbow trout,620,Fish,$14,1
+Malabar plum,621,Fruit,$12,94
+Rose hip,622,Fruit,$3,17
+Roselle,623,Herb,$7,89
+Orange roughy,624,Fish,$8,49
+Sablefish,625,Fish,$13,72
+Pink salmon,626,Fish,$14,21
+Chum salmon,627,Fish,$17,62
+Coho salmon,628,Fish,$11,59
+Sockeye salmon,629,Fish,$17,33
+Chinook salmon,630,Fish,$5,69
+Atlantic salmon,631,Fish,$14,45
+Salmonberry,632,Fruit,$7,21
+Common salsify,633,Plant,$10,21
+Spanish mackerel,634,Fish,$7,48
+Pacific sardine,635,Fish,$8,28
+Scup,636,Fish,$19,65
+Sea cucumber,637,Seafood,$6,76
+Steller sea lion,638,Seafood,$8,32
+Bearded seal,639,Seafood,$3,75
+Ringed seal,640,Seafood,$15,15
+Sea trout,641,Fish,$4,36
+Sesbania flower,642,Flower,$11,92
+American shad,643,Fish,$13,37
+Shark,644,Fish,$11,37
+Sheefish,645,Fish,$14,96
+Sheepshead,646,Fish,$6,32
+Hedge mustard,647,Vegetable,$15,94
+Snapper,648,Fish,$7,32
+Spelt,649,Cereal,$11,51
+Spirulina,650,Additive,$9,22
+Squab,651,Meat,$2,34
+Squirrel,652,Meat,$3,73
+Greater sturgeon,653,Fish,$8,18
+White sucker,654,Fish,$7,60
+Pumpkinseed sunfish,655,Fish,$4,23
+Swordfish,656,Fish,$13,62
+Taro,657,Vegetable,$17,58
+Teff,658,Herb,$13,13
+Tilefish,659,Fish,$4,7
+Mexican groundcherry,660,Fruit,$9,57
+Towel gourd,661,Vegetable,$13,36
+Salmonidae,662,Fish,$13,76
+Walleye,663,Fish,$11,98
+Alaska pollock,664,Fish,$13,63
+Whelk,665,Seafood,$13,92
+Broad whitefish,667,Fish,$5,86
+Whitefish,668,Fish,$18,63
+Whiting,669,Fish,$18,97
+Wild rice,670,Cereal,$15,74
+Tea leaf willow,671,Herb,$7,43
+Winged bean,672,Legume,$16,50
+Yam,673,Vegetable,$1,19
+Jicama,674,Vegetable,$3,80
+Yautia,675,Plant,$10,17
+Yellowfin tuna,676,Fish,$12,30
+Yellowtail amberjack,677,Fish,$2,94
+Pollock,678,Fish,$16,59
+Albacore tuna,679,Fish,$13,45
+Atlantic halibut,680,Fish,$4,87
+Smelt,682,Fish,$20,59
+Clupeinae,683,Fish,$17,21
+Spiny lobster,684,Seafood,$19,28
+Black-eyed pea,685,Legume,$6,20
+Deer,686,Meat,$7,87
+Percoidei,687,Fish,$10,25
+Perciformes,688,Fish,$8,64
+Rabbit,690,Meat,$11,18
+Beefalo,691,Meat,$20,36
+Bivalvia,693,Seafood,$3,44
+Flatfish,694,Fish,$11,29
+Walrus,695,Seafood,$15,39
+Alaska wild rhubarb,696,Plant,$19,38
+Oriental wheat,697,Cereal,$9,2
+Yardlong bean,698,Legume,$2,85
+Great horned owl,699,Meat,$4,12
+Quail,700,Meat,$7,96
+Boysenberry,701,Fruit,$2,15
+Rowal,702,Plant,$7,98
+Jew's ear,703,Fungus,$7,47
+Shiitake,704,Fungus,$6,56
+Purple laver,705,Seafood,$6,44
+Wakame,706,Seafood,$10,20
+Enokitake,707,Fungus,$17,99
+Epazote,708,Herb,$10,62
+Oyster mushroom,709,Fungus,$5,11
+Cloud ear fungus,710,Fungus,$15,10
+Maitake,711,Fungus,$8,36
+Ostrich fern,712,Plant,$12,96
+Spot croaker,713,Fish,$11,20
+Sourdock,714,Herb,$3,4
+Tinda,715,Vegetable,$11,94
+Atlantic menhaden,716,Fish,$4,44
+Agave,717,Plant,$15,16
+Narrowleaf cattail,718,Herb,$7,29
+Jellyfish,719,Seafood,$9,12
+Anchovy,720,Fish,$7,76
+Blue whiting,721,Fish,$14,43
+Carp bream,722,Fish,$19,48
+Chanterelle,723,Fungus,$9,89
+Sturgeon,724,Fish,$9,73
+Charr,725,Fish,$13,15
+Common dab,726,Fish,$16,57
+Spiny dogfish,727,Fish,$8,88
+Anatidae,728,Meat,$13,53
+Anguilliformes,729,Fish,$11,26
+True frog,730,Meat,$1,5
+Garfish,731,Fish,$1,9
+Gadiformes,732,Fish,$12,19
+Mountain hare,733,Meat,$10,75
+Lake trout,734,Fish,$7,67
+Lemon sole,735,Fish,$10,99
+Lumpsucker,736,Fish,$1,46
+Scombridae,737,Fish,$11,65
+Norway haddock,738,Fish,$17,90
+Norway pout,739,Fish,$5,27
+Oil palm,740,Plant,$18,86
+Sago palm,741,Plant,$11,41
+Persimmon,742,Fruit,$13,29
+Pikeperch,743,Fish,$6,45
+Pleuronectidae,744,Fish,$12,34
+Rock ptarmigan,745,Meat,$5,76
+Pacific ocean perch,746,Fish,$19,49
+Black salsify,747,Plant,$3,89
+True seal,748,Seafood,$1,97
+Red algae,749,Seafood,$18,30
+Kombu,750,Seafood,$18,33
+Snail,751,Meat,$3,21
+True sole,752,Fish,$20,21
+Catfish,753,Fish,$14,87
+Thistle,754,Plant,$8,20
+Common Tuna,755,Fish,$15,56
+Cetacea,756,Fish,$4,68
+Columbidae,757,Meat,$1,16
+Conch,758,Fish,$4,55
+Berry wine,759,Beverage Alcoholic,$1,72
+Vodka,762,Beverage Alcoholic,$17,89
+Ice cream,763,Dish,$9,69
+Vermouth,764,Beverage Alcoholic,$8,93
+Madeira wine,765,Beverage Alcoholic,$8,15
+Nougat,766,Dish,$7,59
+Toffee,767,Dish,$7,63
+Cake,768,Dish,$10,26
+Pizza,769,Dish,$1,23
+Ymer,770,Dairy,$17,88
+Pastry,772,Dish,$17,13
+Drag̩e,773,Dish,$1,48
+Chewing gum,774,Dish,$5,40
+Marzipan,775,Dish,$2,16
+Salad dressing,776,Dish,$9,81
+Salt,778,Additive,$18,29
+Cream,780,Dairy,$16,44
+Sugar,781,Additive,$6,36
+Sausage,782,Dish,$1,15
+Meatball,783,Dish,$12,74
+Pate,784,Dish,$15,14
+Meat bouillon,786,Dish,$14,50
+Whey,788,Dairy,$18,36
+Casein,789,Additive,$7,83
+Leavening agent,791,Additive,$12,36
+Marshmallow,792,Bakery,$19,92
+Gelatin,793,Additive,$19,16
+Water,794,Additive,$12,18
+Milk Human,796,Dairy,$16,21
+Dumpling,799,Dish,$17,53
+Soup,800,Dish,$6,29
+Syrup,803,Additive,$18,73
+Remoulade,805,Dish,$3,7
+Chocolate spread,806,Plant,$15,7
+Fruit gum,807,Dish,$16,67
+Meringue,810,Bakery,$6,83
+Cocoa butter,814,Plant,$10,82
+Cocoa powder,815,Plant,$10,91
+Chocolate,817,Plant,$1,30
+Hot chocolate,818,Beverage,$19,41
+Kefir,820,Dairy,$17,86
+Miso,822,Additive,$18,32
+Tofu,823,Plant,$10,63
+Zwieback,824,Dish,$1,37
+Roe,825,Fish,$3,1
+Cichlidae,826,Fish,$15,51
+Icing,827,Additive,$6,3
+Snack bar,828,Dish,$19,42
+Green turtle,829,Meat,$15,40
+Burrito,831,Dish,$10,62
+Hamburger,832,Dish,$11,48
+Taco,834,Dish,$19,76
+Tortilla,835,Dish,$10,37
+Nachos,836,Dish,$14,69
+Salad,837,Dish,$16,100
+Dulce de leche,839,Dairy,$1,50
+Topping,840,Additive,$16,46
+Sweet custard,841,Dairy,$4,70
+Egg roll,842,Dish,$13,57
+Heart of palm,843,Vegetable,$17,40
+Potato chip,845,Bakery,$16,58
+Tortilla chip,846,Bakery,$8,70
+Corn chip,847,Bakery,$9,29
+Hibiscus tea,848,Beverage,$1,99
+Stew,849,Dish,$15,44
+Gelatin dessert,850,Additive,$14,9
+Junket,851,Dairy,$2,47
+Falafel,852,Dish,$10,32
+Frybread,853,Dish,$3,36
+Lasagna,855,Dish,$1,25
+Morchella,856,Fungus,$19,67
+Pancake,857,Dish,$15,72
+Pectin,858,Additive,$5,34
+Pudding,859,Dish,$15,15
+Waffle,860,Dish,$2,36
+Soy milk,861,Beverage,$20,83
+Meatloaf,862,Dish,$3,85
+Cocktail,863,Beverage,$5,43
+Couscous,864,Dish,$7,36
+Bulgur,865,Cereal,$8,88
+Coffee mocha,867,Beverage,$13,90
+Chimichanga,868,Dish,$1,8
+Semolina,869,Cereal,$18,43
+Tapioca pearl,870,Vegetable,$11,62
+Tostada,871,Dish,$5,46
+Quesadilla,872,Dish,$15,61
+Baked potato,873,Dish,$15,29
+Hot dog,874,Dish,$15,8
+Spread,875,Additive,$19,90
+Enchilada,876,Dish,$16,51
+Ketchup,880,Additive,$10,100
+Adobo,882,Dish,$15,81
+Horned melon,884,Fruit,$12,36
+Hushpuppy,885,Dish,$7,57
+Fruit juice,886,Beverage,$7,52
+Relish,887,Dish,$19,84
+Fruit salad,889,Dish,$8,49
+Soy yogurt,890,Plant,$10,41
+Cold cut,893,Dish,$6,71
+Mixed nuts,894,Nuts & Seed,$14,59
+Babassu palm,895,Plant,$17,21
+Shea tree,897,Plant,$19,51
+Oil-seed Camellia,898,Plant,$7,35
+Ucuhuba,899,Plant,$13,64
+Phyllo dough,900,Bakery,$12,82
+Cooking oil,901,Additive,$11,13
+Pie crust,902,Bakery,$7,70
+Pie,904,Dish,$5,83
+Shortening,905,Additive,$17,28
+Soy cream,906,Dish,$12,65
+Ice cream cone,907,Dish,$14,55
+Molasses,908,Additive,$7,16
+Nance,909,Fruit,$12,70
+Natto,911,Dish,$4,50
+Ravioli,912,Dish,$10,24
+Scrapple,913,Dish,$7,31
+Succotash,915,Dish,$14,50
+Tamale,916,Dish,$4,2
+Rice cake,917,Dish,$4,86
+Tree fern,918,Plant,$16,60
+Evaporated milk,919,Dairy,$19,15
+Flour,920,Cereal,$1,97
+Akutaq,921,Dish,$10,37
+Pita bread,923,Bakery,$5,43
+Focaccia,924,Bakery,$14,89
+Bagel,925,Bakery,$15,65
+Piki bread,927,Bakery,$16,18
+French toast,928,Bakery,$19,51
+Oat bread,929,Bakery,$3,21
+Potato bread,930,Bakery,$4,55
+Cornbread,931,Maize,$5,67
+Corn grits,932,Maize,$2,47
+Multigrain bread,933,Bakery,$14,18
+Rice bread,934,Bakery,$10,27
+Pan dulce,935,Bakery,$10,76
+Raisin bread,936,Bakery,$11,93
+Wonton wrapper,937,Bakery,$11,31
+Trail mix,938,Dish,$19,72
+Greenthread tea,939,Beverage,$9,8
+Vegetable juice,941,Beverage,$6,67
+Horchata,942,Beverage,$6,66
+Soft drink,943,Beverage,$15,99
+Milkshake,944,Beverage,$3,78
+Chocolate mousse,945,Bakery,$4,43
+Pupusa,947,Dish,$2,41
+Empanada,948,Dish,$2,25
+Arepa,949,Dish,$6,24
+Ascidians,950,Seafood,$2,15
+Gefilte fish,951,Dish,$7,97
+Yellow pond lily,952,Plant,$8,74
+Fish burger,953,Dish,$5,21
+Pot pie,955,Dish,$12,55
+Stuffing,956,Additive,$13,28
+Fudge,958,Bakery,$4,88
+Candy bar,959,Bakery,$19,94
+Condensed milk,960,Dairy,$14,60
+Margarine,961,Additive,$6,3
+Hummus,963,Dish,$11,11
+Potato puffs,964,Dish,$13,71
+Potato gratin,965,Dish,$11,46
+Chinese bayberry,967,Fruit,$14,53
+Green zucchini,968,Vegetable,$7,19
+Zucchini,969,Vegetable,$4,98
+Saskatoon berry,970,Fruit,$9,47
+Nanking cherry,971,Fruit,$4,13
+Japanese pumpkin,972,Fruit,$20,87
+Guinea hen,977,Meat,$10,86
+Cucurbita,978,Vegetable,$11,31
+Anise Oil,979,Fruit,$10,6
+Apple Juice,980,Fruit,$14,66
+Coconut Milk,981,Beverage,$18,32
+Coconut Oil,982,Fruit,$7,8
+Hops Beer,983,Beverage Alcoholic,$4,25
+Lemon Juice,984,Beverage,$4,100
+Brown Rice,985,Cereal,$20,76
+Tomato Juice,986,Beverage,$2,69
+Tomato Paste,987,Vegetable,$19,80
+Tomato Puree,988,Vegetable,$13,46
+Coriander Seed,989,Vegetable,$12,48
+Lard,990,Meat,$9,50
+Cured Ham,991,Meat,$8,75
+Cayenne,992,Spice,$6,9
+Yeast,993,Fungus,$20,94
+Tequila,994,Beverage Alcoholic,$9,60
+Sauerkraut,995,Vegetable,$18,42
+Baking Powder,996,Additive,$18,41
+Monosodium Glutamate,997,Additive,$9,19
+Citric Acid,998,Additive,$19,6
+Cooking Spray,999,Additive,$4,21
+Food Coloring,1001,Additive,$7,93
+Liquid Smoke,1002,Additive,$13,1
+Garam Masala,2000,Spice,$9,11
+Ginger Garlic Paste,2001,Spice,$7,42
+Coriander Cumin Seed Powder,2002,Spice,$11,92
+Chaat Masala,2003,Spice,$7,28
+Sambar Powder,2004,Spice,$13,68
+Chole Masala,2005,Spice,$4,29
+Rasam Powder,2006,Spice,$14,94
+Tandoori Masala,2007,Spice,$7,88
+Curry Powder,2008,Spice,$9,50
+Panch Pharon Seed,2009,Spice,$4,3
+Chicken Masala Powder,2010,Spice,$18,69
+Goda Masala,2011,Spice,$16,64
+Jal Jeera Powder,2012,Spice,$20,20
+Ginger Garlic Coriander Leaves,2013,Spice,$20,50
+Pulao Masala,2014,Spice,$16,83
+Dabeli Masala,2015,Spice,$18,57
+Cake Mix,2016,Dish,$14,13
+Half Half,2017,Dairy,$12,97
+Ale,2018,Beverage Alcoholic,$16,40
+Vermicelli,2019,Dish,$1,62
+Self Rising Flour,2020,Cereal,$4,22
+Mayonnaise,2021,Dish,$11,25
+Salt-Pepper,2022,Additive,$5,14
+Croissant,2023,Dish,$11,37
+Puff Pastry,2024,Dish,$10,66
+Green Chutney,2025,Spice,$1,35
+Cajun Seasoning,2026,Spice,$17,68
+Vegetable Broth,2027,Dish,$20,58
+Tandoori Paste,2028,Dish,$10,52
+Mixed Vegetables,2029,Vegetable,$13,42
+Salad Creme,2030,Dish,$13,25
+Worcestershite Sauce,2031,Dish,$19,79
+Coleslaw,2032,Dish,$10,43
+Vegetable Stock,2033,Vegetable,$17,73
+Mascarpone,2034,Dish,$13,82
+Fettuccine,2035,Dish,$17,74
+Italian Seasoning,2036,Spice,$7,8
+Spinach Fettuccine,2038,Dish,$15,21
+Hoisin Sauce,2039,Dish,$1,51
+Barbeque Sauce,2040,Dish,$13,18
+Sponge Cake,2041,Dish,$7,99
+Baking Mix,2042,Dish,$1,87
+Hot Sauce,2043,Dish,$15,83
+Dried Mixed Fruit,2044,Fruit,$19,80
+Candied Mixed Fruit,2045,Fruit,$12,91
+Gulkand,2046,Dish,$19,91
+Pancetta,2047,Dish,$3,5
+Phyllo,2048,Cereal,$2,63
+Pie Crust,2049,Cereal,$10,70
+Prosciutto,2050,Meat,$17,47
+Creole Seasoning,2051,Spice,$16,50
+Chinese Five Spice Powder,2052,Spice,$2,11
+Old Bay Seasoning,2053,Spice,$6,85
+Adobo Sauce,2054,Dish,$5,29
+Cracker Crumb,2055,Dish,$13,32
+Ranch Dressing,2057,Spice,$20,21
+Poultry Seasoning,2058,Spice,$3,56
+Tahini,2059,Dish,$9,65
+Herbe de Provence,2060,Spice,$14,30
+Tart Shell,2061,Dish,$11,34
+Bear,2065,Meat,$11,33
+Whale,2066,Fish,$7,74
+Seal,2068,Fish,$6,86
+Tuna,2069,Fish,$4,70
+Croaker,2070,Fish,$15,93
+Mackerel,2071,Fish,$1,3
+Perch,2074,Fish,$4,79
+Hibiscus Tea,2077,Dish,$11,58
+Octopus,2079,Seafood,$20,49
+Oat Bread,2080,Bakery,$16,63
+Pita Bread,2081,Bakery,$19,79
+Raisin Bread,2082,Bakery,$9,92
+Multigrain Bread,2083,Bakery,$18,8
+Pout,2085,Fish,$6,75
+Herring,2086,Fish,$19,9
+Cooking Oil,2089,Additive,$3,13
+Rice Cake,2090,Bakery,$19,60
+Trout,2091,Fish,$18,11
+Halibut,2093,Fish,$14,52
+Cider Vinegar,2102,Dish,$14,20
