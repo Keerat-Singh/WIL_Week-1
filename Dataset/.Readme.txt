@@ -5,3 +5,6 @@ ingredients_finalised_dataset.csv -> Price, Stock Quantatiy
 product_demand_df.csv
 purchase_history.csv
 vendor_toronto.csv
+delivery_preference.csv
+Recipe Preference.csv
+User Interaction Data.csv
