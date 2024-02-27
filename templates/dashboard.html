@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power BI Dashboard</title>
+    <!-- Power BI Embedding SDK -->
+    <script src="https://microsoft.github.io/PowerBI-JavaScript/demo/node_modules/powerbi-client/dist/powerbi.js"></script>
+    <style>
+        /* Add any custom styling here */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .embed-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+        }
+        .embed-container iframe, .embed-container object, .embed-container embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="embed-container">
+        <!-- Replace the embed URL and embed token with your own -->
+        <!-- <iframe width="800" height="600" src="https://app.powerbi.com/view?r=3eac734f-95df-4cab-8e1d-6927386e3716&amp;embed=1" frameborder="0" allowFullScreen="true"></iframe> -->
+        <iframe title="test1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzdiZGJiZjUtOGQ4Yy00OTg1LTk1YTktYWNiZGY0NzIwZjA0IiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9&pageName=ReportSection " frameborder="0" allowFullScreen="true"></iframe>
+    </div>
+    <script>
+        // JavaScript code to embed the Power BI dashboard
+        // Replace 'your-embed-token' with your own token
+        var embedConfiguration = {
+            type: 'report',
+            tokenType: models.TokenType.Embed,
+            accessToken: 'your-embed-token',
+            embedUrl: 'https://app.powerbi.com/reportEmbed?reportId=your-report-id'
+        };
+
+        // Embed the Power BI report
+        var reportContainer = document.getElementById('reportContainer');
+        var report = powerbi.embed(reportContainer, embedConfiguration);
+    </script>
+</body>
+</html>
