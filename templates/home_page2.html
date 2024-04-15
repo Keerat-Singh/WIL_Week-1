@@ -1,0 +1,100 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <!-- <title>Flask App</title> -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home_page.css') }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="{{ url_for('static', filename='js/home_page.js') }}"></script>
+</head>
+<body> 
+<main>
+  <ul class='slider'>
+    <li class='item' style="background-image: url('static/wlps/bg2.jpg')">
+      <!-- <h3 style="color:white;">Auto Basket</h3> -->
+      <div class='content'>
+        <h2 class='title'>Recipe Recommendation</h2>
+        <p class='description'>  Our very own Recipe Recommendation System, where you can explore and discover a wide range of authentic recipes. Our system utilizes advanced algorithms to curate personalized recipe recommendations based on your preferences and dietary requirements.
+        Currently supporting Indian and Italian recipes.
+
+        Click below to explore further:</p>
+         <form action="/recommendatation_system" method="GET">
+          <button type="submit">Explore Now (Italian Recipe Recommendation)</button>
+        </form>
+        </br>
+        </br>
+        </br>
+        <form action="/indian_recommendatation" method="GET">
+          <button type="submit">Explore Now (Indian Recipe Recommendation)</button>
+        </form>
+
+      </div>
+    </li>
+    <li class='item' style="background-image: url('static/wlps/bg3.jpg')">
+      <!-- <h3 style="color:white;">Auto Basket</h3> -->
+      <div class='content'>
+        <h2 class='title'>Discover Insights</h2>
+        <p class='description'> Dive into the intriguing world of data exploration with our dashboard. Uncover the unique insights and patterns that define our dataset.
+
+        Click below to explore further: </p>
+         <form action="/dashboard" method="post">
+          <button type="submit">Explore Now</button>
+        </form>
+      </div>
+    </li>
+    <li class='item' style="background-image: url('static/wlps/bg7.jpg')">
+      <div class='content'>
+        <h2 class='title'>Auto Basket</h2>
+        <p class='description'> AutoBasket, founded by Larry and Veronica Smiles in Toronto, aims to simplify grocery shopping through its innovative app. By automating grocery and recipe lists and linking recipes to required products, AutoBasket streamlines the shopping process, saving time and energy for busy families and individuals worldwide. The company's headquarters reflect the vibrancy of Toronto, a city known for its innovation and diversity, as AutoBasket continues to assist households in efficiently managing their weekly grocery runs.</p>
+
+        <!-- <button>Read More</button> -->
+      </div>
+    </li>
+    <li class='item' style="background-image: url('static/wlps/bg6.jpg')">
+      <div class='content'>
+        <h2 class='title'>Contact Us</h2>
+        <p class='description'>
+          
+         </br> 
+          <h5>General Inquiries:</h5>
+          </br>
+          Email: info@autobasket.com
+          </br>
+          Phone: +1 (555) 123-4567
+          </br>
+          </br>
+          <h5>Customer Support:</h5>
+          </br>
+          Email: support@autobasket.com
+          </br>
+          Phone: +1 (555) 987-6543
+          </br>
+          </br>
+        </p>
+        <button>Read More</button>
+      </div>
+    </li>
+    <li class='item' style="background-image: url('static/wlps/bg1.jpg')">
+      <div class='content'>
+        <h2 class='title'></h2>
+        <p class='description'>
+        </p>
+        <!-- <button>Read More</button> -->
+      </div>
+    </li>
+    <li class='item' style="background-image: url('static/wlps/bg5.jpg')">
+      <div class='content'>
+        <h2 class='title'></h2>
+        <p class='description'></p>
+        <!-- <button>Read More</button> -->
+      </div>
+    </li>
+  </ul>
+  <nav class='nav'>
+    <ion-icon class='btn prev' name="arrow-back-outline"></ion-icon>
+    <ion-icon class='btn next' name="arrow-forward-outline"></ion-icon>
+  </nav>
+</main>
+</body>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>

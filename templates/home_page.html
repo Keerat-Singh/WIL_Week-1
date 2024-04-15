@@ -1,0 +1,50 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <!-- <title>Flask App</title> -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home_page.css') }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="{{ url_for('static', filename='js/home_page.js') }}"></script>
+</head>
+<body> 
+ <main>
+  <ul class='slider'>
+    <li class='item' style="background-image: url('https://cdn.mos.cms.futurecdn.net/dP3N4qnEZ4tCTCLq59iysd.jpg')">
+      <h1 style="color:white;">Auto Basket</h1>
+      <div class='content'>        
+        <h2 class='title'>Italian Recipe Recommendation</h2>
+        <p class='description'> Our very own Italian Recipe Recommendation System, where you can explore and discover a wide range of authentic Italian recipes. Our system utilizes advanced algorithms to curate personalized recipe recommendations based on your preferences and dietary requirements.
+
+        Click below to explore further:</p>
+
+        <form action="/recommendatation_system" method="GET">
+          <button type="submit">Explore Now</button>
+        </form>
+        <!-- <button>Explore Now</button> -->
+        <!-- <input type=submit>Explore Now</button> -->
+      </div>
+    </li>
+    <li class='item' style="background-image: url('https://i.redd.it/tc0aqpv92pn21.jpg')">
+      <h1 style="color:white;">Auto Basket</h1>
+      <div class='content'>
+        <h2 class='title'>Discover Insights</h2>
+        <p class='description'> Dive into the intriguing world of data exploration with our dashboard. Uncover the unique insights and patterns that define our dataset.
+
+        Click below to explore further:</p>
+        <form action="/dashboard" method="post">
+          <button type="submit">Explore Now</button>
+        </form>
+        <!-- <button>Explore More</button> -->
+      </div>
+    </li>
+  </ul>
+  <nav class='nav'>
+    <ion-icon class='btn prev' name="arrow-back-outline"></ion-icon>
+    <ion-icon class='btn next' name="arrow-forward-outline"></ion-icon>
+  </nav>
+</main>
+</body>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</html>
