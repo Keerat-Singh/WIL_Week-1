@@ -1,0 +1,5 @@
+uname : bhavsarharshil99
+pass : Harshil%40150799
+
+
+mongodb://localhost:27017/
